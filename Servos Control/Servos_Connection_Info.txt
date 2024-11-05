@@ -1,0 +1,7 @@
+Left-upper eyelid - 0
+Left-lower eyelid - 1
+Up-Down eyeMovement - 2
+Left-right eyeMovement - 3
+Right-Upper eyelid - 4
+Right-Lower eyelid - 5
+
